@@ -6,9 +6,9 @@
 
 The Financial Sales Analysis Report Dashboard was developed using Power BI to provide an in-depth understanding of financial performance, including gross sales, profits, and units sold. The dashboard offers interactive visualizations that help stakeholders identify trends, evaluate product performance, and assess segment profitability.
 
-Key Features and Insights:
+# Key Features and Insights:
 
-High-Level Financial Metrics:
+## High-Level Financial Metrics:
 
 Gross Sales: $128M
 Total Sales: $119M

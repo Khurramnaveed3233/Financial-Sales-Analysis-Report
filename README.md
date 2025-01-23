@@ -2,7 +2,7 @@
 
 ![Financial Sales Analysis](https://github.com/user-attachments/assets/b1e7e468-0bdf-465d-835d-b2dcd331f2d2)
 
-***Project Overview: 
+# Project Overview: 
 
 The Financial Sales Analysis Report Dashboard was developed using Power BI to provide an in-depth understanding of financial performance, including gross sales, profits, and units sold. The dashboard offers interactive visualizations that help stakeholders identify trends, evaluate product performance, and assess segment profitability.
 

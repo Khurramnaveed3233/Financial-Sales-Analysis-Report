@@ -4,8 +4,6 @@
 
 # 💰 Financial Sales Analysis Report (2013–2014)
 
-![Financial Sales Dashboard](./images/financial_sales_dashboard.jpg)
-
 ## 📊 Project Overview
 
 This Power BI dashboard delivers a comprehensive analysis of **sales performance** across multiple segments, products, and geographies for the years **2013–2014**. The goal is to derive actionable insights that can help stakeholders improve **profitability, discount strategy**, and **sales focus** across markets.
@@ -112,5 +110,16 @@ The report simulates the work of a **Sales or Business Analyst** in the FMCG or 
 
 ---
 
-## 📁 Project Files
+
+---
+
+## 🧑‍💼 Author
+
+**Khurram Naveed**  
+📧 khurramnaveed4545@gmail.com  
+🔗 LinkedIn](#) | https://www.linkedin.com/in/khurram-naveed-0083851aa/
+
+---
+
+> ⭐ *If you found this useful, feel free to fork, star, or suggest improvements. This dashboard demonstrates real-world BI analysis techniques with Power BI and DAX.*
 

@@ -25,7 +25,7 @@ Sales leadership lacked structured visibility into:
 
 ---
 
-## 📊 Key KPIs
+##  Key KPIs
 
 | Metric | Value |
 |---|---|
@@ -40,7 +40,7 @@ Sales leadership lacked structured visibility into:
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Sales by Segment
 - **Top segment generates $53M** — followed by $42M and $20M segments
@@ -85,7 +85,7 @@ Sales leadership lacked structured visibility into:
 
 ---
 
-## 🛠️ Technical Approach
+##  Technical Approach
 
 ### Power BI
 - **Star schema** data model connecting products, segments, geographies, and time dimensions
@@ -117,7 +117,7 @@ Sales leadership lacked structured visibility into:
 
 ##  Repository Structure
 ```
-📂 Financial-Sales-Analysis-Report
+ Financial-Sales-Analysis-Report
 ├── 📊 FinancialSales_Dashboard.pbix    — Interactive Power BI dashboard
 ├── 📄 SalesData_2013_2014.csv          — Simulated FMCG sales dataset
 ├── 🖼️  Financial Sales Analysis Dashboard.jpg — Dashboard preview
@@ -127,7 +127,7 @@ Sales leadership lacked structured visibility into:
 ---
 
 
-## 👤 About
+##  About
 
 **Khurram Naveed** — Data Analyst specializing in Power BI, SQL, and business intelligence.
 
@@ -137,8 +137,8 @@ Sales leadership lacked structured visibility into:
 
 ---
 
-> 💼 *This project demonstrates real-world FMCG sales analysis techniques — using Power BI and DAX to translate $128M in sales data into clear pricing strategy, discount optimization, and product portfolio recommendations that directly impact profitability.*
+>  *This project demonstrates real-world FMCG sales analysis techniques — using Power BI and DAX to translate $128M in sales data into clear pricing strategy, discount optimization, and product portfolio recommendations that directly impact profitability.*
 
 ---
 
-⭐ *If you found this useful, feel free to fork, star, or suggest improvements.*
+*If you found this useful, feel free to fork, star, or suggest improvements.*
